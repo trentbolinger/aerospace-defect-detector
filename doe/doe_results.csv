@@ -1,0 +1,5 @@
+run,resolution,confidence_threshold,accuracy_pct,rejection_rate_pct,total_images
+1,high,60.0,100.0,0.0,384
+2,high,85.0,99.74,0.26,384
+3,low,60.0,64.06,3.91,384
+4,low,85.0,60.42,12.5,384
